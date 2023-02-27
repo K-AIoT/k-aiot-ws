@@ -3,10 +3,24 @@
 Description coming soon! 
 
 
+## Installation
+
+Dowload the robot code from: https://drive.google.com/file/d/1azgsnl7ia1m9O_sUwXsb6Muvg0N-CXgI/view?usp=share_link. This zip-file contains packages that we will use. 
+
+
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
 ## Table of content
 
-[Virtual Machine](#virtualmachine)\
-[ROS Melodic Installation](#rosinstallation)
+[Installation](#installation)\
+[Virtual Machine](#Virtual-Machine)\
+[ROS Melodic Installation](#ROS-Melodic-Installation)
+
+
 ## Virtual Machine
 
 Pick a software of you're own choice to run a virtual machine. 
